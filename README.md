@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ayumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayumitanaka13)](https://github.com/ayumitanaka13/github-readme-stats)
+
 <!--
 **ayumitanaka13/ayumitanaka13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
