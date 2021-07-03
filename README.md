@@ -1,10 +1,10 @@
 <img width="100%" alt="AyumiTanaka" src="https://user-images.githubusercontent.com/55824449/124337699-cbef6180-db58-11eb-856d-7ad685806202.png">
 
-<h3 align="center">A front-end developer who loves building creative websites and applications that make life easier. A hard worker who combines a passion for web development with expertise in web design. Have developed several websites and applications using HTML, CSS, Sass, JavaScript, React, TypeScript and Python.</h3>
+<p align="center">A front-end developer who loves building creative websites and applications that make life easier. A hard worker who combines a passion for web development with expertise in web design. Have developed several websites and applications using HTML, CSS, Sass, JavaScript, React, TypeScript and Python.</p>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
