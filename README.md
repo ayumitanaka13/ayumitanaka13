@@ -34,7 +34,8 @@
 
 <p>Links</p>
 
-👨‍💻&emsp;All of my projects are available at<br><font color="C6715D">[https://ayumitanaka.net](https://ayumitanaka.net)</font><br>
+👨‍💻&emsp;All of my projects are available at<br><span style="color: #C6715D">[https://ayumitanaka.net](https://ayumitanaka.net)</span><br>
 📫&emsp;How to reach me<br>**tanakayumi13@gmail.com**<br>
 📄&emsp;Know about my experiences<br>[https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
+
 </div>
