@@ -28,12 +28,10 @@
 
 <br>
 
-<p align="center">
-
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=tokyonight&locale=en" alt="ayumitanaka13" />
 
 👨‍💻&emsp;All of my projects are available at<br>[https://ayumitanaka.net](https://ayumitanaka.net)<br>
 📫&emsp;How to reach me<br>**tanakayumi13@gmail.com**<br>
 📄&emsp;Know about my experiences<br>[https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
-
-</p>
+</div>
