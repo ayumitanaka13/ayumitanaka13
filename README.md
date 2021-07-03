@@ -4,8 +4,9 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=tokyonight&locale=en" alt="ayumitanaka13" />
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=tokyonight&locale=en" alt="ayumitanaka13" /></p>
 
+<p align="center">
 
 👨‍💻&emsp;All of my projects are available at <br> [https://ayumitanaka.net](https://ayumitanaka.net) <br>
 📫&emsp;How to reach me <br> **tanakayumi13@gmail.com** <br>
