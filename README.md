@@ -4,17 +4,13 @@
 
 <br>
 
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=tokyonight&locale=en" alt="ayumitanaka13" /></p>
+
 <br>
 
-<p align="center">
-
-👨‍💻&emsp;All of my projects are available at [https://ayumitanaka.net](https://ayumitanaka.net)
-📫&emsp;How to reach me **tanakayumi13@gmail.com**
-📄&emsp;Know about my experiences [https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
-
-</p>
+👨‍💻&emsp;All of my projects are available at <br> [https://ayumitanaka.net](https://ayumitanaka.net)
+📫&emsp;How to reach me <br> **tanakayumi13@gmail.com**
+📄&emsp;Know about my experiences <br> [https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
 
 <p align="center">Languages and Tools</p>
 <p align="center">
