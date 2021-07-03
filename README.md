@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayumi</h1>
+
+<img width="500" alt="top" src="https://user-images.githubusercontent.com/55824449/124337699-cbef6180-db58-11eb-856d-7ad685806202.png">
+
 <h3 align="center">A passionate frontend developer in Vancouver</h3>
+<p align="center">A front-end developer who loves building creative websites and applications that make life easier. A hard worker who combines a passion for web development with expertise in web design. Have developed several websites and applications using HTML, CSS, Sass, JavaScript, React, TypeScript and Python.</p>
 
 
-- 👨‍💻 All of my projects are available at [https://ayumitanaka.net](https://ayumitanaka.net)
+- 👨‍💻  All of my projects are available at [https://ayumitanaka.net](https://ayumitanaka.net)
 
-- 📫 How to reach me **tanakayumi13@gmail.com**
+- 📫  How to reach me **tanakayumi13@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
+- 📄  Know about my experiences [https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=tokyonight&locale=en" alt="ayumitanaka13" /></p>
