@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=tokyonight&locale=en" alt="ayumitanaka13" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayumitanaka13&show_icons=true&theme=calm&locale=en" alt="ayumitanaka13" />
 
 <p>Links</p>
 
