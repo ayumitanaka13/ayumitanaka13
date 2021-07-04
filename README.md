@@ -34,8 +34,8 @@
 
 <p>Links</p>
 
-👨‍💻&emsp;All of my projects are available at<br>[https://ayumitanaka.net](https://ayumitanaka.net)<br>
-📫&emsp;How to reach me<br>**tanakayumi13@gmail.com**<br>
-📄&emsp;Know about my experiences<br>[https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
+👨‍💻&nbsp;All of my projects are available at<br>[https://ayumitanaka.net](https://ayumitanaka.net)<br>
+📫&nbsp;How to reach me<br>**tanakayumi13@gmail.com**<br>
+📄&nbsp;Know about my experiences<br>[https://www.linkedin.com/in/ayumitanaka13](https://www.linkedin.com/in/ayumitanaka13)
 
 </div>
